@@ -3,4 +3,4 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb://rubick:<PASSWORD>@enigma-shard-00-00-bngqe.mongodb.net:27017,enigma-shard-00-01-bngqe.mongodb.net:27017,enigma-shard-00-02-bngqe.mongodb.net:27017/rubick?streamType=netty&ssl=true&replicaSet=Enigma-shard-0&authSource=admin
+      uri: '{cipher}729794fa7e87c5f3fe5d57f15c4bd8cca396b40324f00f7c0d02b50297e0cb637a9b594a50c1ef83447c8ea08a6bdbc69e41cb6f4208eff9ad74b6460f7772eb12a5710e394ae05cb5e5f71f955f9602bbd85cac46c845162373ae6b32797004a3c394b3ecf87ee24dc2a582a4e2791d7474ac8472c216cd659a9d374ba2194fc40dadba3bf3913e27e7351d23a8ea3d811aa2449cf1364e59e063163531915a7544a812826cd8502eced651dd7ecee62b4b4b12073c25ddd3a8b305fe8765897c4a662c7f7638f4c84359267b1fa78e1f6dd09bd961cab70a349f4380d7e0ed65de6192fb24ea3e75cf1ce358190b57428f34651456e902ee59b861c57fa9eab8ab0a74ce21d553b972d063609a613be9ef9f411a96a2dc11f99f5ab3c88d69'
